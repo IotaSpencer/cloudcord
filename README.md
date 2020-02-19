@@ -1,0 +1,2 @@
+# cloudcord
+Discord Cloudflare bot
