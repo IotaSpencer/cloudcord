@@ -1,14 +1,14 @@
 # encoding: utf-8
 
 $:.unshift File.expand_path('../lib', __FILE__)
-require 'cloudcord/version'
+require 'cloud_cord/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'cloudcord'
-  s.version       = Cloudcord::VERSION
+  s.name          = 'cloud_cord'
+  s.version       = CloudCord::VERSION
   s.authors       = ['Ken Spencer']
   s.email         = ['me@iotaspencer.me']
-  s.homepage      = 'https://github.com/Ken Spencer/cloudcord'
+  s.homepage      = 'https://github.com/IotaSpencer/cloud_cord'
   s.licenses      = []
   s.summary       = '[summary]'
   s.description   = '[description]'
