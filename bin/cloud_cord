@@ -1,0 +1,4 @@
+#! /usr/bin/ruby
+require 'cloud_cord'
+cc = CloudCord::App.new
+cc.start
